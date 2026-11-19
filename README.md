@@ -1,2 +1,2 @@
 # cyber-security-exercises-reports
-Cyber Security practical exercises and reports
+Cybersecurity course exercise reports – 2026/27
